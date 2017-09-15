@@ -2,6 +2,7 @@ body {
   font-family: verdana, sans-serif;
   background-color: black;
   text-align: center;
+  color: white;
 }
 
 h1 {
@@ -10,8 +11,24 @@ h1 {
   font-weight: normal;
 }
 
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
 .link {
   color: aquamarine;
   text-decoration: underline;
   font-size: 16px;
+}
+
+.offer {
+  color: grey;
+  font-size: 21x;
+}
+
+.company {
+  text-align: right;
+  color: gray;
 }
